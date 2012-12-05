@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.9'
 
 group :development do
-  gem 'sqlite3', '1.3.6'
+#  gem 'sqlite3', '1.3.6'
 end
 
 
